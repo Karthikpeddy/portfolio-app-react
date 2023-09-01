@@ -1,11 +1,12 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
+import Nike from '../assets/projects/nike-project-01';
 
 export const data=[
     {
         id:1,
         name:"React JS Application",
-        image:WorkIm,
+        image:Nike,
         github:"",
         live:"",
     },
