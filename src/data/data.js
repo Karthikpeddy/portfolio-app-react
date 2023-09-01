@@ -7,7 +7,7 @@ export const data=[
         id:1,
         name:"Nike E-commerce",
         image:Nike,
-        github:"",
+        github:"https://github.com/Karthikpeddy/portfolio-app-react",
         live:"",
     },
     {
