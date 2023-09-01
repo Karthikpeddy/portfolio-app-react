@@ -5,7 +5,7 @@ import Nike from '../assets/projects/nike-project-01';
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"Nike E-commerce",
         image:Nike,
         github:"",
         live:"",
