@@ -1,6 +1,6 @@
 import WorkIm from '../assets/projects/workImg.jpeg'
 import RealEst from '../assets/projects/realestate.jpg'
-import Nike from '../assets/projects/nike-project-01';
+import Nike from '../assets/projects/nike-project-01.PNG';
 
 export const data=[
     {
