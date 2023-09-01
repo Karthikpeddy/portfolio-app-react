@@ -5,7 +5,7 @@ import Nike from '../assets/projects/nike-project-01.PNG';
 export const data=[
     {
         id:1,
-        name:"Nike E-commerce",
+        name:"Nike Branding Website",
         image:Nike,
         github:"https://github.com/Karthikpeddy/portfolio-app-react",
         live:"",
